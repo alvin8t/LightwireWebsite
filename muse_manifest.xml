@@ -1,0 +1,40 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1455249622962">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="donators.css" crc="3985715782" ref="donators"/>
+    <file name="staff.css" crc="140908972" ref="staff"/>
+    <file name="index.css" crc="467073059" ref="index"/>
+    <file name="youtubers.css" crc="351837433" ref="youtubers"/>
+    <file name="streamers.css" crc="4170065367" ref="streamers"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:streamers:youtubers:staff:donators"/>
+    <file name="museutils.js" crc="4190794036" ref="index:streamers:youtubers:staff:donators"/>
+    <file name="whatinput.js" crc="84559013" ref="index:streamers:youtubers:staff:donators"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:streamers:youtubers:staff:donators"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:streamers:youtubers:staff:donators"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index:streamers:youtubers:staff"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="index:streamers:youtubers:staff:donators"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:streamers:youtubers:staff:donators"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-1-u605-fr.png" crc="82433938" ref="index"/>
+    <file name="s.png" crc="3807091586" seo="true" ref="index"/>
+    <file name="untitled-2-u608-fr.png" crc="93527790" ref="index:streamers"/>
+    <file name="untitled-3-u613-fr.png" crc="461203537" ref="index:streamers:youtubers:staff"/>
+    <file name="untitled-1.png" crc="422639083" seo="true" ref="streamers:youtubers:staff:donators"/>
+    <file name="blazy.jpg" crc="3960006071" ref="streamers"/>
+    <file name="beam-ball-small.png" crc="478750374" seo="true" ref="streamers"/>
+    <file name="masterstevemc yt.jpg" crc="4261467928" ref="youtubers"/>
+    <file name="youtube.png" crc="175672163" seo="true" ref="youtubers:staff"/>
+    <file name="dragunnxfire.jpg" crc="4126928800" ref="youtubers"/>
+    <file name="alvin8ts-face125x125.jpg" crc="4264781401" ref="staff"/>
+    <file name="blazar.jpg" crc="3825256116" ref="staff"/>
+    <file name="minecraft.png" crc="380378687" seo="true" ref="donators"/>
+  </folder>
+  <file name="index.html" crc="3872115034" seo="true" mt="1455249398013" redirect="true"/>
+  <file name="streamers.html" crc="3880115120" seo="true" mt="1455249618325" redirect="true"/>
+  <file name="youtubers.html" crc="182610850" seo="true" mt="1455249467188" redirect="true"/>
+  <file name="staff.html" crc="403875659" seo="true" mt="1455249618439" redirect="true"/>
+  <file name="donators.html" crc="141903021" seo="true" mt="1455249507930" redirect="true"/>
+</manifest>
